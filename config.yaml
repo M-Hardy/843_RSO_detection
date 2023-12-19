@@ -1,0 +1,17 @@
+path: C:\Users\hardy\Documents\GDRIVE_LOCAL\Project Resources\CS\dev\computer_vision\RSO_detection\SPARK
+train: images/train
+val: images/val
+
+#Classes
+names:
+  0: smart_1
+  1: cheops
+  2: lisa_pathfinder
+  3: debris
+  4: proba_3_ocs
+  5: proba_3_csc
+  6: soho
+  7: earth_observation_sat_1
+  8: proba_2
+  9: xmm_newton
+  10: double_star
